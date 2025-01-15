@@ -35,7 +35,7 @@ Facility/infrastructure attacks and assassinations, though lower in frequency, r
 ### Crime Rates Over the Years:
 Recommendation: Strengthen regional collaborations to sustain the decline in crime rates observed post-2015. Focus on intelligence sharing and coordinated military actions.
 
-###Top 10 High-Risk Cities in Nigeria:
+### Top 10 High-Risk Cities in Nigeria:
 Recommendation: Deploy additional security personnel and resources to high-risk cities like Maiduguri and Kano. Initiatives such as community policing and local intelligence gathering should be intensified.
 
 ### Top 10 Terrorist Groups:
